@@ -3,14 +3,13 @@
     justify-content: space-between;
     align-items: center;
     width: 100vw;
-    margin: 0 auto;
     /* background-color: #003349; */
     padding: 30px;
 
 }
 
 .header{
-    background-color: #003349;
+    background-color: #ccc;
     padding: 10px;
     margin: 10px;
 }
