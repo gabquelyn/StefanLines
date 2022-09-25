@@ -1,0 +1,23 @@
+.input{
+    padding: 5px 10px;
+    width: 30px;
+}
+
+.input::placeholder, .header-input::placeholder{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.input:focus, .header-input:focus{
+    outline: none;
+}
+
+.header-input{
+    padding: 10px;
+    font-size: 20px;
+    width: 100px;
+}
+
+.header-input{
+    border: 2px solid #003349;
+}
